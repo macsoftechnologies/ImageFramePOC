@@ -1,0 +1,16 @@
+.resizable-draggable-container {
+    position: relative;
+  }
+  
+  .resizable-handle {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 10px;
+    height: 10px;
+    cursor: nwse-resize;
+    background-color: #007bff;
+    border: 2px solid #fff;
+    border-radius: 4px;
+  }
+  
